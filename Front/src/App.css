@@ -1,0 +1,33 @@
+
+body{
+  margin:0;
+  padding:0;
+ 
+ 
+}
+.cot{
+  /* display: flex;
+	flex-wrap: nowrap;
+  justify-content: space-between; */
+  display: grid;
+  grid-template-columns: 200px 1150px;
+  
+  background-color: rgb(227, 235, 247);
+  
+}
+.marg{
+/* background-color: red; */
+
+ margin-right: 0%; 
+ margin-left: 200px;
+margin-top: 50px;  
+}
+
+
+
+
+
+
+
+
+
